@@ -17,15 +17,15 @@
 
 ### Members
 
-#### Original New Autumn Members (ONAM)
+### Original New Autumn Members (ONAM)
 - Robert
 - Michaela
 - Erynn
 
-#### Classic Generation
+### Classic Generation
 
 
-#### Haru Generation
+### Haru Generation
 
 
 ## Other Relations
