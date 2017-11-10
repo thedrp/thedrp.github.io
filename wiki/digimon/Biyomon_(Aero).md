@@ -2,6 +2,7 @@
 -----
 ![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
 
+# Contents
 -----
 
 - [Biography](#biography)
