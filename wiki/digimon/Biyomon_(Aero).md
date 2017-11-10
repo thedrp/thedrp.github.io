@@ -1,8 +1,8 @@
 # Biyomon (Aero)
 ![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
 
-- [Biography](wiki/digimon/Biyomon_(Aero)#biography)
-- [Evolution](wiki/digimon/Biyomon_(Aero)#evolution)
+- [Biography](Biyomon_(Aero)#biography)
+- [Evolution](#evolution)
 
 # Evolution
 -----
