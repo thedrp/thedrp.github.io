@@ -1,6 +1,6 @@
 # Seasarmon (Sam)
 -----
-![test]({{site.baseurl}}/wiki/resources/Seasarmon.png)
+![Seasarmon.png]({{site.baseurl}}/wiki/resources/Seasarmon.png)
 
 # Contents
 -----
