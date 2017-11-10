@@ -4,19 +4,18 @@
 ## Contents
 -----
 
-- [Relations](#relations)
-	- [Members](#members)
-    	- [Original New Autumn Members (ONAM)](#original-new-autumn-members-onam)
-        - Classic Generation
-        - Haru Generation
-	- Other relations
-- History
-	- Original New Autumn Members (ONAM)
-	- Classic Generation
-	- Haru Generation
+- [Relations](#relations)  
+	- [Members](#members)  
+    	- [Original New Autumn Members (ONAM)](#original-new-autumn-members-onam)  
+        - [Classic Generation](#classic_generation)  
+        - [Haru Generation](#haru_generation)  
+	- [Other relations](#other_relations)  
+- [History](#history)  
 
 ## Relations
 -----
+
+### Members
 
 #### Original New Autumn Members (ONAM)
 - Robert
@@ -31,3 +30,5 @@
 
 ## Other Relations
 -----
+
+## History
