@@ -1,6 +1,6 @@
 # Biyomon (Aero)
 -----
-![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
+![test]({{site.baseurl}}/wiki/resources/Biyomon.png)  
 -----
 
 - [Biography](#biography)
