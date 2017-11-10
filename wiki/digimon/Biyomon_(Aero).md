@@ -10,18 +10,16 @@
 
 ### Origin
 
-#### History
-
 # Evolution
 -----
 
-## Baby  
+### Baby  
 [Nyokimon](http://www.wikimon.net/nyokimon)
 
-## In-Training  
+### In-Training  
 [Yokomon](http://www.wikimon.net/yokomon)
 
-## Rookie
+### Rookie
 [Biyomon](http://www.wikimon.net/biyomon)  
 [Mushroomon](http://www.wikimon.net/mushroomon)
 
