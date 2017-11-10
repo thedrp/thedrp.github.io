@@ -1,3 +1,7 @@
+# Biyomon (Aero)
+![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
+
+
 # Evolution
 -----
 
