@@ -1,2 +1,0 @@
-- Affiliation
-	- New Autumn
