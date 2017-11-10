@@ -6,7 +6,7 @@
 
 - [Relations](#relations)
 	- [Members](#members)
-    	- [Original New Autumn Members (ONAM)](#original_new_autumn_members_ONAM)
+    	- [Original New Autumn Members (ONAM)](#original-new-autumn-members-onam)
         - Classic Generation
         - Haru Generation
 	- Other relations
