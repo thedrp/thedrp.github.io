@@ -2,7 +2,7 @@
 ![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
 
 - [Biography](wiki/digimon/Biyomon_(Aero)#biography)
-- Evolution
+- [Evolution](wiki/digimon/Biyomon_(Aero)#evolution)
 
 # Evolution
 -----
