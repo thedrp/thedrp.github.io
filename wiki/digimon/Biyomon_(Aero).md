@@ -31,10 +31,12 @@ Aero was created in 2009 to be Robert's Digimon partner.
 [Birdramon](http://www.wikimon.net/birdramon)  
 [Veedramon](http://www.wikimon.net/veedramon)  
 [Woodmon](http://www.wikimon.net/woodmon)  
+[MailBirdramon](https://wikimon.net/Mailbirdramon)
 
 ## Ultimate
 [Garudamon](http://www.wikimon.net/garudamon)  
-[AeroVeedramon](http://www.wikimon.net/aeroveedramon)
+[AeroVeedramon](http://www.wikimon.net/aeroveedramon)  
+[MetalGreymon Xros](https://wikimon.net/Metal_Greymon_(2010_Anime_Version))
 
 ## Mega
 [Phoenixmon](http://www.wikimon.net/phoenixmon)  
