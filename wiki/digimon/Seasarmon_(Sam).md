@@ -35,4 +35,4 @@ Sam was created in 2014 to be Emma's Digimon partner. (Awaiting further info)
 [Taomon](http://www.wikimon.net/taomon) (Potentially obsolete)  
 
 ## Mega
-[Lilithmon](http://www.wikimon.net/lilithmon)  
+[Lilithmon](http://www.wikimon.net/lilithmon)
