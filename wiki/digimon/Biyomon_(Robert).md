@@ -1,4 +1,7 @@
-# Biyomon (Aero)
+---
+redirect_from: "/wiki/digimon/aero"
+---
+# Robert's Biyomon, "Aero"
 -----
 ![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
 
