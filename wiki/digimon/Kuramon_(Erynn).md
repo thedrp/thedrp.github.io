@@ -1,6 +1,6 @@
-# Lukas' Tentomon
+# Erynn's Kuramon
 -----
-![test]({{site.baseurl}}/wiki/resources/Tentomon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Tentomon.png)
 
 # Contents
 -----
@@ -12,25 +12,25 @@
 -----
 
 ## Origin
-Tentomon was created in 2011 to be Lukas' Digimon partner.
+Kuramon was created in 200X to be Erynn's Digimon partner. (Awaiting further info)
 
 # Evolution
 -----
 
 ## Baby  
-N/A
+[Kuramon](http://www.wikimon.net/Kuramon)
 
 ## In-Training  
 N/A
 
 ## Rookie
-[Tentomon](http://www.wikimon.net/tentomon)  
+N/A  
 
 ## Champion
-[Kabuterimon](http://www.wikimon.net/Kabuterimon) (Citation needed)  
+N/A  
 
 ## Ultimate
-[MegaKabuterimon](http://www.wikimon.net/MegaKabuterimon)  
+N/A   
 
 ## Mega
-[HerculesKabuterimon](http://www.wikimon.net/HerculesKabuterimon)  
+[Diaboromon](http://www.wikimon.net/Diaboromon)  

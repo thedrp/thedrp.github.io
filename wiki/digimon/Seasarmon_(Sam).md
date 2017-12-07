@@ -1,4 +1,4 @@
-# Seasarmon (Sam)
+# Emma's Seasarmon, "Sam"
 -----
 ![Seasarmon.png]({{site.baseurl}}/wiki/resources/Seasarmon.png)
 

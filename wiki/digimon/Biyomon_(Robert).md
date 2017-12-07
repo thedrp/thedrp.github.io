@@ -1,5 +1,5 @@
 ---
-redirect_from: "/wiki/digimon/aero"
+redirect_from: "/wiki/digimon/aero", "wiki/aero", "/aero"
 ---
 # Robert's Biyomon, "Aero"
 -----
