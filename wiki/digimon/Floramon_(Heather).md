@@ -7,6 +7,8 @@
 -----
 
 - [Biography](#biography)
+  - [Origin](#origin)
+  - [Appearance](#appearance)
 - [Evolution](#evolution)
 
 # Biography
@@ -14,6 +16,9 @@
 
 ## Origin
 Floramon was created in 2011 to be Heather's Digimon partner.
+
+## Appearance
+Heather's Floramon has light yellow petals.
 
 # Evolution
 -----

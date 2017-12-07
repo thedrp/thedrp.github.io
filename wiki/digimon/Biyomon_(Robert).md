@@ -1,6 +1,3 @@
----
-redirect_from: "/wiki/digimon/aero/"
----
 # Robert's Biyomon, "Aero"
 -----
 ![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
@@ -28,13 +25,15 @@ Aero was created in 2009 to be Robert's Digimon partner.
 
 ## Rookie
 [Biyomon](http://www.wikimon.net/biyomon)  
-[Mushroomon](http://www.wikimon.net/mushroomon)
+[Mushroomon](http://www.wikimon.net/mushroomon)  
+[Veemon](http://www.wikimon.net/veemon) (Compressed w/Grey and Jayden w/Moon=Milleniummon's blessing, "V-Power") (Obsolete)
 
 ## Champion
 [Birdramon](http://www.wikimon.net/birdramon)  
 [Veedramon](http://www.wikimon.net/veedramon)  
 [Woodmon](http://www.wikimon.net/woodmon)  
-[MailBirdramon](https://wikimon.net/MailBirdramon)
+[MailBirdramon](https://wikimon.net/MailBirdramon)  
+[Pegasusmon](http://www.wikimon.net/Pegasusmon) (w/Digimental of Hope)
 
 ## Ultimate
 [Garudamon](http://www.wikimon.net/garudamon)  
@@ -43,4 +42,5 @@ Aero was created in 2009 to be Robert's Digimon partner.
 
 ## Mega
 [Phoenixmon](http://www.wikimon.net/phoenixmon)  
-[Gryphonmon](http://www.wikimon.net/gryphonmon)
+[Gryphonmon](http://www.wikimon.net/gryphonmon)  
+[Ceresmon](http://www.wikimon.net/ceresmon) (w/The Code Crown and Calumon's Light of Digivolution)

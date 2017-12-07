@@ -1,6 +1,6 @@
 # Erynn's Kuramon
 -----
-![Image missing]({{site.baseurl}}/wiki/resources/Tentomon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Kuramon.png)
 
 # Contents
 -----
