@@ -4,7 +4,7 @@ This landing page is far from stable. Most links here lead nowhere yet, and are 
 
 # News
 -----
-####December 07, 2017
+#### December 07, 2017
 I've begun adding multiple Character and Digimon pages to the wiki, filling them with basic and structural information. So far these pages barely link to one another, but once I've put more of them together I'll be working back through them to make sure that they do. The goal currently is still building templates and really nailing down the look and flow of the wiki.
 
 These new pages will be available from the homepage here, through various branches of other more comprehensive pages, in the near future. For now, they are online, but you'll need to navigate to them directly via URL.
