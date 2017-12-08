@@ -1,4 +1,4 @@
-# Erynn's Kuramon
+# Erynn's Kuramon, "Biri"
 -----
 ![Image missing]({{site.baseurl}}/wiki/resources/Kuramon.png)
 
@@ -12,7 +12,7 @@
 -----
 
 ## Origin
-Kuramon was created in 200X to be Erynn's Digimon partner. (Awaiting further info)
+Biri was created in 200X to be Erynn's Digimon partner. (Awaiting further info)
 
 # Evolution
 -----
@@ -24,13 +24,13 @@ Kuramon was created in 200X to be Erynn's Digimon partner. (Awaiting further inf
 N/A
 
 ## Rookie
-N/A  
+[Wormmon](http://www.wikimon.net/wormmon) (Blue/Yellow)
 
 ## Champion
-N/A  
+[Devidramon](http://www.wikimon.net/devidramon)
 
 ## Ultimate
-N/A   
+[Argomon](http://www.wikimon.net/Argomon_Perfect)
 
 ## Mega
 [Diaboromon](http://www.wikimon.net/Diaboromon)  
