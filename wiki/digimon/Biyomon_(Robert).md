@@ -1,3 +1,8 @@
+---
+title: Robert's Biyomon, "Aero"
+category: digimon
+tags: [ rookie, onam, new autumn]
+---
 [![Image missing]({{site.baseurl}}/wiki/resources/categories/Red Branch.png)](/wiki/Red_Branch)
 # Robert's Biyomon, "Aero"
 -----
