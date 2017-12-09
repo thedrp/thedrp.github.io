@@ -1,4 +1,3 @@
-[![Image missing]({{site.baseurl}}/wiki/resources/categories/Red Branch_s.png)](/wiki/Red_Branch)
 # Robert's Biyomon, "Aero"
 -----
 ![Image missing]({{site.baseurl}}/wiki/resources/Biyomon.png)
@@ -48,4 +47,4 @@ Aero was created in 2009 to be Robert's Digimon partner.
 
 -----
 
-**Categories:** [Digimon](wiki/categories/Digimon) | [New Autumn](wiki/categories/New_Autumn) | [ONAM](wiki/categories/ONAM)
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [ONAM](wiki/categories/ONAM) [![Image missing]({{site.baseurl}}/wiki/resources/categories/Red Branch_s.png)](/wiki/Red_Branch)
