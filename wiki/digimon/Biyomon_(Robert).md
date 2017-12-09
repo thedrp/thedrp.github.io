@@ -1,6 +1,7 @@
+[![Image missing]({{site.baseurl}}/wiki/resources/categories/Red Branch.png)](/wiki/Red_Branch)
 # Robert's Biyomon, "Aero"
 -----
-![test]({{site.baseurl}}/wiki/resources/Biyomon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Biyomon.png)
 
 # Contents
 -----
