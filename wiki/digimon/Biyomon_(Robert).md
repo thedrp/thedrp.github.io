@@ -45,3 +45,7 @@ Aero was created in 2009 to be Robert's Digimon partner.
 [Phoenixmon](http://www.wikimon.net/phoenixmon)  
 [Gryphonmon](http://www.wikimon.net/gryphonmon)  
 [Ceresmon](http://www.wikimon.net/ceresmon) (w/The Code Crown and Calumon's Light of Digivolution)
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) | [New Autumn](wiki/categories/New_Autumn) | [ONAM](wiki/categories/ONAM)
