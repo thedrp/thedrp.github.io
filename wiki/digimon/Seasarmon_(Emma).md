@@ -1,6 +1,6 @@
 # Emma's Seasarmon, "Sam"
 -----
-![Seasarmon.png]({{site.baseurl}}/wiki/resources/Seasarmon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Seasarmon.png)
 
 # Contents
 -----

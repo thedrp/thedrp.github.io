@@ -1,6 +1,6 @@
 # Deanna's Lopmon
 -----
-![test]({{site.baseurl}}/wiki/resources/Lopmon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Lopmon.png)
 
 # Contents
 -----

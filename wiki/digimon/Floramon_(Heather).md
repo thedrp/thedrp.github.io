@@ -1,7 +1,7 @@
 
 # Heather's Floramon
 -----
-![test]({{site.baseurl}}/wiki/resources/Floramon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Floramon.png)
 
 # Contents
 -----

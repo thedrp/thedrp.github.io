@@ -1,6 +1,6 @@
 # Lukas' Tentomon
 -----
-![test]({{site.baseurl}}/wiki/resources/Tentomon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Tentomon.png)
 
 # Contents
 -----

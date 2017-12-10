@@ -1,6 +1,6 @@
 # Robert's Terriermon, "Jayden"
 -----
-![test]({{site.baseurl}}/wiki/resources/Terriermon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Terriermon.png)
 
 # Contents
 -----

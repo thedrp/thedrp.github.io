@@ -1,6 +1,6 @@
 # Robert's Greymon, "Grey"
 -----
-![test]({{site.baseurl}}/wiki/resources/Greymon.png)
+![Image missing]({{site.baseurl}}/wiki/resources/Greymon.png)
 
 # Contents
 -----
