@@ -2,7 +2,7 @@
 
 # B
 
-[Biyomon, "Aero" (Robert)](./digimon/Biyomon_(Robert))
+[Biyomon, "Aero" (Robert)](../digimon/Biyomon_(Robert))
 
 [BlackGuilmon (Jinn)](http://thedrp.org/wiki/digimon/BlackGuilmon_(Jinn))
 
