@@ -60,17 +60,17 @@
 
 # R
 
-[Raposamon (Villain)](http://thedrp.org/wiki/digimon/Raposamon_(Villain))
+[Raposamon (Villain)](../digimon/Raposamon_(Villain))
 
 # S
 
-[Seasarmon, "Sam" (Emma)](http://thedrp.org/wiki/digimon/Seasarmon_(Emma))
+[Seasarmon, "Sam" (Emma)](../digimon/Seasarmon_(Emma))
 
 # T
 
-[Tentomon (Lukas)](http://thedrp.org/wiki/digimon/Tentomon_(Lukas))
+[Tentomon (Lukas)](../digimon/Tentomon_(Lukas))
 
-[Terriermon, "Jayden" (Robert)](http://thedrp.org/wiki/digimon/Terriermon_(Robert))
+[Terriermon, "Jayden" (Robert)](../digimon/Terriermon_(Robert))
 
 # U
 
@@ -78,7 +78,7 @@
 
 # W
 
-[Wizardmon, "???" (Michaela)](http://thedrp.org/wiki/digimon/Wizardmon_(Michaela))
+[Wizardmon, "???" (Michaela)](../digimon/Wizardmon_(Michaela))
 
 # X
 

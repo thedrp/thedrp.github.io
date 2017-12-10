@@ -41,3 +41,7 @@ N/A
 
 ## Mega
 N/A
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn)

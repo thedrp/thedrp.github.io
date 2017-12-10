@@ -12,7 +12,7 @@
 -----
 
 ## Origin
-Biri was created in 200X to be Erynn's Digimon partner. (Awaiting further info)
+Biri was created in 2009 to be Erynn's Digimon partner. (Awaiting further info)
 
 # Evolution
 -----

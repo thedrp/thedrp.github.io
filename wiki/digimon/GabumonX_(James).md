@@ -34,3 +34,7 @@ GabumonX's origin is currently undocumented. He is James' Digimon partner.
 
 ## Mega
 [MetalGarurumon](http://www.wikimon.net/MetalGarurumon)  
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn)

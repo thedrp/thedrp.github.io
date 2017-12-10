@@ -47,4 +47,4 @@ Aero was created in 2009 to be Robert's Digimon partner.
 
 -----
 
-**Categories:** [Digimon](../categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [ONAM](wiki/categories/ONAM)
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [ONAM](../categories/ONAM)

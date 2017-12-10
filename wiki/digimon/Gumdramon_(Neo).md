@@ -39,3 +39,7 @@ N/A
 [Alphamon](http://www.wikimon.net/Alphamon)  
 [Moon=Millenniummon](http://www.wikimon.net/Moon_Millenniummon) (Obsolete)  
 [ZeedMillenniummon](http://www.wikimon.net/Zeed_Millenniummon) (Obsolete)  
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [Red Branch](wiki/categories/Red_Branch)

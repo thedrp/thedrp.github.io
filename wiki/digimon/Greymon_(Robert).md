@@ -43,3 +43,7 @@ MetalGreymon Crimson Mode
 [VictoryGreymon](http://www.wikimon.net/VictoryGreymon) (Obsolete)  
 [BlitzGreymon](http://www.wikimon.net/Blitz_Greymon) (w/The Code Crown and Calumon's Light of Digivolution)
 [Omnimon](http://www.wikimon.net/Omegamon) (Jogress w/[MetalGarurumon](http://www.wikimon.net/Metal_Garurumon))
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [ONAM](wiki/categories/ONAM)

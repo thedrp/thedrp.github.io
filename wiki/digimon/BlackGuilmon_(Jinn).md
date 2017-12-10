@@ -31,3 +31,7 @@ N/A
 
 ## Mega
 [ChaosGallantmon](http://www.wikimon.net/ChaosGallantmon)  
+
+-----
+
+**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn)
