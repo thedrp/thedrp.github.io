@@ -30,9 +30,13 @@ Sam was created in 2014 to be Emma's Digimon partner. (Awaiting further info)
 [Seasarmon](http://www.wikimon.net/seasarmon)  
 
 ## Ultimate
-[Angewomon](http://www.wikimon.net/angewomon)  
+[MagnaAngemon](http://www.wikimon.net/magnaangemon)  
 [LadyDevimon](http://www.wikimon.net/lady_devimon)  
 [Taomon](http://www.wikimon.net/taomon) (Potentially obsolete)  
 
 ## Mega
 [Lilithmon](http://www.wikimon.net/lilithmon)
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [Red Branch](../categories/Red_Branch)

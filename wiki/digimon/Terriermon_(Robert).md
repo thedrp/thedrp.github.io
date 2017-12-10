@@ -40,3 +40,7 @@ Terriermon XJ (w/[Soulmon](http://www.wikimon.net/Soulmon))
 [GoldRapidmon](http://www.wikimon.net/Rapidmon_Armor) w/Digimental of Destiny  
 [MegaGargomon](http://www.wikimon.net/MegaGargomon) (w/The Code Crown and Calumon's Light of Digivolution)  
 [Raidenmon](http://www.wikimon.net/Raidenmon) (Unproven)
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [Red Branch](../categories/Red_Branch)

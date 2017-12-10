@@ -38,4 +38,4 @@ N/A
 
 -----
 
-**Categories:** [Digimon](wiki/categories/Digimon) - [Villains](wiki/categories/Villains)
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [Red Branch](../categories/Red_Branch) [Villains](../categories/Villains)

@@ -34,3 +34,7 @@ N/A
 
 ## Mega
 N/A
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [Red Branch](../categories/Red_Branch)

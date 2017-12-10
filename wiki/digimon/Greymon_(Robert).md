@@ -46,4 +46,4 @@ MetalGreymon Crimson Mode
 
 -----
 
-**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [ONAM](wiki/categories/ONAM)
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [ONAM](../categories/ONAM)

@@ -42,4 +42,4 @@ N/A
 
 -----
 
-**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn) - [Red Branch](wiki/categories/Red_Branch)
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [Red Branch](../categories/Red_Branch)

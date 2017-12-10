@@ -41,3 +41,7 @@
 
 ## Mega
 [Beelzemon](http://www.wikimon.net/Beelzebumon_(2010_Anime_Version)) (Citation needed)
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [ONAM](../categories/ONAM)

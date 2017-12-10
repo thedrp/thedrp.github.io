@@ -37,4 +37,4 @@ GabumonX's origin is currently undocumented. He is James' Digimon partner.
 
 -----
 
-**Categories:** [Digimon](wiki/categories/Digimon) - [New Autumn](wiki/categories/New_Autumn)
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn)

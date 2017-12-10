@@ -34,3 +34,7 @@ N/A
 
 ## Mega
 [HerculesKabuterimon](http://www.wikimon.net/HerculesKabuterimon)  
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [Red Branch](../categories/Red_Branch)

@@ -34,3 +34,7 @@ N/A
 
 ## Mega
 [Diaboromon](http://www.wikimon.net/Diaboromon)  
+
+-----
+
+**Categories:** [Digimon](../categories/Digimon) - [New Autumn](../categories/New_Autumn) - [ONAM](../categories/ONAM)
