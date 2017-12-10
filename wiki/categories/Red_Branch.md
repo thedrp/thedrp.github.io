@@ -1,4 +1,4 @@
-## Pages only belong to the Red Branch category if they are focused on something that did not exist during the Common Branch or have changed dramatically since then.
+**Pages only belong to the Red Branch category if they are focused on something that did not exist during the Common Branch or have changed dramatically since then.**
 
 ### Examples of pages that belong to the Red Branch category:
 
