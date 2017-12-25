@@ -1,4 +1,4 @@
-# Michaela's Wizardmon, "???"
+# Michaela's Wizardmon, "Silias"
 -----
 ![Image missing]({{site.baseurl}}/wiki/resources/Wizardmon.png)
 
@@ -14,10 +14,10 @@
 -----
 
 ## Origin
-??? was created in 200X to be Michaela's Digimon partner. (Awaiting further info)
+Silias was created in 200X to be Michaela's Digimon partner. (Awaiting further info)
 
 ## Appearance
-??? has brown eyes.
+Silias has brown eyes.
 
 # Evolution
 -----
