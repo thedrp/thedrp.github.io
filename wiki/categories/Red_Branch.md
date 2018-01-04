@@ -60,7 +60,7 @@
 
 # S
 
-[Seasarmon, "Sam" (Emma)](../digimon/Seasarmon_(Emma))
+[Seasarmon, "Sam" (Violet)](../digimon/Seasarmon_(Violet))
 
 # T
 
