@@ -1,4 +1,4 @@
-# Emma's Seasarmon, "Sam"
+# Violet's Seasarmon, "Sam"
 -----
 ![Image missing]({{site.baseurl}}/wiki/resources/Seasarmon.png)
 
@@ -12,7 +12,7 @@
 -----
 
 ## Origin
-Sam was created in 2014 to be Emma's Digimon partner. (Awaiting further info)
+Sam was created in 2014 to be Violet's Digimon partner. (Awaiting further info)
 
 # Evolution
 -----
