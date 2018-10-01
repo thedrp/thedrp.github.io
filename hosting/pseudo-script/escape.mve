@@ -1,0 +1,41 @@
+if var.TerrainType = 1 //Clear
+  then
+    set var.EscapeChance += var.MovementClear
+if var.TerrainType = 2 //Tree
+  then
+    set var.EscapeChance += var.MovementTree
+if var.TerrainType = 3 //Rock
+  then
+    set var.EscapeChance += var.MovementRock
+if var.TerrainType = 4 //Sand
+  then
+    set var.EscapeChance += var.MovementSand
+if var.TerrainType = 5 //Swim
+  then
+    set var.EscapeChance += var.MovementSwim
+set var.EscapeChance *= 2
+
+if var.Stage = var.OpStage
+  then
+    Jump to "Attempt"
+if var.Stage > var.OpStage
+  then
+    set var.StageDifference == var.Stage
+    set var.StageDifference -= var.OpStage
+    set var.StageDifference *= 5
+if var.Stage < var.OpStage
+  then
+    set var.StageDifference == var.Stage
+    set var.StageDifference -= var.OpStage
+    set var.StageDifference *= 10
+set var.EscapeChance += var.StageDifference
+
+set var.EscapeChance += 50
+
+"Attempt"
+set var.EscapeAttempt == 1~100
+if var.EscapeAttempt >= var.EscapeChance
+  then
+    [[SUCCESS]]
+  else
+    [[FAIL]]
