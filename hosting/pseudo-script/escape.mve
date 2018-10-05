@@ -17,7 +17,7 @@ set var.EscapeChance *= 2
 
 if var.Stage = var.OpStage
   then
-    Jump to "Attempt"
+    Jump to "Add base chance"
 if var.Stage > var.OpStage
   then
     set var.StageDifference == var.Stage
@@ -30,9 +30,9 @@ if var.Stage < var.OpStage
     set var.StageDifference *= 10
 set var.EscapeChance += var.StageDifference
 
+"Add base chance"
 set var.EscapeChance += 50
 
-"Attempt"
 set var.EscapeAttempt == 1~100
 if var.EscapeAttempt >= var.EscapeChance
   then
