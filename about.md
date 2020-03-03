@@ -5,7 +5,7 @@
 -----
 Discord: [Click here to join our community](https://discord.gg/2Hu2AVT)
 
-E-Mail: thedigitalresearchproject@gmail.com
+E-Mail: [](thedigitalresearchproject@gmail.com)
 
 ## Credits
 -----
