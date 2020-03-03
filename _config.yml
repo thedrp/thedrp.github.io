@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
 title: The Digital Research Project
-description: Maintained by the members of New Autumn.
+description: Maintained by New Autumn.
 plugins:
     - jekyll-redirect-from
