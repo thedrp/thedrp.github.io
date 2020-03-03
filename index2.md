@@ -2,6 +2,8 @@
 -----
 This landing page, as well as the rest of the site, is still very new and under heavy construction. Please bear with us.
 
+### Digimon of the Day: ![Image missing]({{site.baseurl}}/hosting/digimon-lcd-colored/weregaruru.png) WereGarurumon [V1-B34C-2ED1]
+
 # News
 -----
 #### December 10, 2017
