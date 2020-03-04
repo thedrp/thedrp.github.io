@@ -15,6 +15,8 @@ LCD sprites are colored and/or modified by Robert Mato unless otherwise stated i
 
 Pendulum Cycle ver.8 manual scans by "Cruithne" at [http://dimensionalarea.net](http://dimensionalarea.net)
 
+Various early Pendulum Cycle research by Airdramon, Sino, P.P.A, and more on WtW. ([Link to thread](https://withthewill.net/threads/airdramons-pendulum-cycle-research.15512/))
+
 "[Midnight](https://pages-themes.github.io/midnight/)" theme originally by [mattgraham](https://twitter.com/michigangraham). Modified by New Autumn.
 
 ### UNDER CONSTRUCTION
