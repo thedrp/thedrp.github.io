@@ -64,4 +64,4 @@
 - [Page 8: Misc Care & Death]({{site.baseurl}}/hosting/scans/cycle-manual/cycle_8_page_8.jpg)
 - [Page 9: Death II & Settings]({{site.baseurl}}/hosting/scans/cycle-manual/cycle_8_page_9.jpg)
 
-[Download]({{site.baseurl}}/hosting/scans/cycle-manual/cycle-manual.zip) full guide as .zip
+[Download]({{site.baseurl}}/hosting/scans/cycle-manual/cycle-manual.zip) full manual as .zip
