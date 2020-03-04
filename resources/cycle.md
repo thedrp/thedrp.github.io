@@ -6,7 +6,7 @@
 - 30m w/lights off will put a Digimon to sleep
 - Shaking will wake up a sleeping Digimon
 - If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)
-- Special Mode vs Normal Mode (Egg > Fresh > In-Training | Rookie+)
+- Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)
 - 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
 
 ### Special Mode
@@ -43,6 +43,12 @@ Can be scanned with:
 - D-Gather
 
 #### * An original Digimon Pendulum will almost always win, as it will act as an illegally overpowered Monzaemon.
+
+### Unanswered Questions
+-----
+- Does ignoring a Random Encounter count as a Care Mistake?
+- How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
+- What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
 
 # Digimon Roster
 -----
