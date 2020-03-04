@@ -8,6 +8,7 @@
 - If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)
 - Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)
 - 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
+- Failed Jogress can result in Injury
 
 ### Special Mode
 -----
@@ -46,6 +47,7 @@ Can be scanned with:
 
 ### Unanswered Questions
 -----
+- Do Tapirmon and Floramon exist?
 - Does ignoring a Random Encounter count as a Care Mistake?
 - How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
 - What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
@@ -129,3 +131,8 @@ Can be scanned with:
 - [Page 9: Death II & Settings]({{site.baseurl}}/hosting/scans/cycle-manual/cycle_8_page_9.jpg)
 
 [Download]({{site.baseurl}}/hosting/scans/cycle-manual/cycle-manual.zip) full manual as .zip
+
+#### Interior Photos
+
+- [Back of board 1]({{site.baseurl}}/hosting/devices/cycle-inside-back1.jpg)
+- [Back of board 2]({{site.baseurl}}/hosting/devices/cycle-inside-back1.jpg)
