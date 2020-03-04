@@ -26,7 +26,7 @@ Rookie loops (Cycles) daily
 - Battling?
 - Passing of time?
 
-# Connections
+### Connections
 -----
 Can battle with:
 - Digimon Pendulum Cycle (Will function like Battle Training or a random encounter?)
