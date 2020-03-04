@@ -9,6 +9,14 @@
 - Special Mode vs Normal Mode (Egg > Fresh > In-Training | Rookie+)
 - 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
 
+### Special Mode
+-----
+Am babey
+
+### Normal Mode
+-----
+Rookie loops (Cycles) daily
+
 ### How to Affect Weight
 -----
 - Poop
@@ -17,6 +25,24 @@
 - Training
 - Battling?
 - Passing of time?
+
+# Connections
+-----
+Can battle with:
+- Digimon Pendulum Cycle (Will function like Battle Training or a random encounter?)
+- Original Digital Monster '97 (Uses original/'other' rules)
+- Digimon Pendulum (Uses original/'other' rules)*
+- Digimon Analyzer (Analyzer shows an ERROR)
+- D-Terminal [JPN] (D-Terminal shows an ERROR)
+
+Can Jogress with:
+- Digimon Pendulum Cycle
+
+Can be scanned with:
+- D-Terminal [USA]
+- D-Gather
+
+#### * An original Digimon Pendulum will almost always win, as it will act as an illegally overpowered Monzaemon.
 
 # Digimon Roster
 -----
