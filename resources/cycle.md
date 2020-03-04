@@ -3,12 +3,16 @@
 - Strength drains upon evo (but Training doesn't)
 - Evo attempts to happen every 60-90 minutes.
 - Strength hearts must be full (4) for evo to succeed
+- 5 Training squares = 1 Strength heart. Training drops every 15 minutes.
 - 30m w/lights off will put a Digimon to sleep
 - Shaking will wake up a sleeping Digimon
 - If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)
 - Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)
 - 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
 - Failed Jogress can result in Injury
+- Any Champion or Mega can Jogress with any other. Type combo determines outcome.
+- Champions and Megas can Jogress together, each raising one level.
+- Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.
 
 ### Special Mode
 -----
@@ -44,6 +48,17 @@ Can be scanned with:
 - D-Gather
 
 #### * An original Digimon Pendulum will almost always win, as it will act as an illegally overpowered Monzaemon.
+
+#### Jogress Combinations
+- Vaccine + Vaccine = Vaccine
+- Vaccine + Data = Vaccine
+- Vaccine + Virus = Data
+- Data + Vaccine = Vaccine
+- Data + Data = Data
+- Data + Virus = Virus
+- Virus + Vaccine = Data
+- Virus + Data = Virus
+- Virus + Virus = Virus
 
 ### Unanswered Questions
 -----
