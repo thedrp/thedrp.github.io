@@ -135,4 +135,4 @@ Can be scanned with:
 #### Interior Photos
 
 - [Back of board 1]({{site.baseurl}}/hosting/devices/cycle-inside-back1.jpg)
-- [Back of board 2]({{site.baseurl}}/hosting/devices/cycle-inside-back1.jpg)
+- [Back of board 2]({{site.baseurl}}/hosting/devices/cycle-inside-back2.jpg)
