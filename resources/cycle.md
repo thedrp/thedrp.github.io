@@ -2,6 +2,12 @@
 -----
 - Strength drains upon evo (but Training doesn't)
 - Evo attempts to happen every 60-90 minutes.
+- Strength hearts must be full (4) for evo to succeed
+- 30m w/lights off will put a Digimon to sleep
+- Shaking will wake up a sleeping Digimon
+- If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)
+- Special Mode vs Normal Mode (Egg > Fresh > In-Training | Rookie+)
+- 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
 
 ### How to Affect Weight
 -----
@@ -41,7 +47,33 @@
 - Pukumon
 
 ### ver.8 Nightmare Soldiers
-
+- Mokumon
+- DemiMeramon
+- Gabumon
+- Tapirmon
+- Candlemon -> Garurumon, Meramon, Wizardmon
+- DemiDevimon
+- Apemon
+- Garurumon
+- Meramon -> SkullMeramon, Pumpkinmon
+- Wizardmon
+- Devimon
+- Bakemon
+- Dokugumon
+- Mammothmon
+- WereGarurumon -> SkullMammon
+- SkullMeramon -> ???
+- Pumpkinmon -> Boltmon
+- Myotismon
+- LadyDevimon
+- Phantomon
+- SkullMammon -> MetalGarurumon
+- Boltmon -> DeviTamamon
+- Piedmon
+- Daemon
+- MetalGarurumon
+- DeviTamamon
+- MaloMyotismon
 
 ### ver.9 Wind Guardians
 
