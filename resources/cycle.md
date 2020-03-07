@@ -13,6 +13,8 @@
 - Any Champion or Mega can Jogress with any other. Type combo determines outcome.
 - Champions and Megas can Jogress together, each raising one level.
 - Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.
+- Only VS connection battles count on the Status screen.
+- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.)
 
 ### Special Mode
 -----
@@ -30,6 +32,17 @@ Rookie loops (Cycles) daily
 - Training
 - Battling?
 - Passing of time?
+
+#### Training Styles
+
+Practice Battle: Force a battle against a random opponent. The only opponents you can face are Digimon that can be raised on your device. Mega-level Digimon will only appear if you are at least Ultimate-level. Battles progress just like a Random Encounter. (Canceling the battle is fine and will not count as a loss or Care Mistake.)
+
+v7 Deep Savers: Break blocks. Break them all for a MegaHit.
+v8 Wind Guardians: Shoot for distance. The shot will continue off-screen for a MegaHit.
+v9 Nightmare Soldiers: Smash a rock. Destroy it entirely for a MegaHit. (The Digimon will continue off-screen)
+v10 Metal Empire: Lift a weight. Lift it all the way off-screen for a MegaHit.
+
+A MegaHit fills 4 Training bars.
 
 ### Connections
 -----
@@ -62,8 +75,8 @@ Can be scanned with:
 
 ### Unanswered Questions
 -----
-- Do Tapirmon and Floramon exist?
 - Does ignoring a Random Encounter count as a Care Mistake?
+- What does count as a Care Mistake
 - How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
 - What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
 
@@ -108,13 +121,12 @@ Can be scanned with:
 - Wizardmon
 - Devimon
 - Bakemon
-- Dokugumon
 - Mammothmon
 - WereGarurumon -> SkullMammon
 - SkullMeramon -> ???
 - Pumpkinmon -> Boltmon
 - Myotismon
-- LadyDevimon
+- Arukenimon
 - Phantomon
 - SkullMammon -> MetalGarurumon
 - Boltmon -> DeviTamamon
