@@ -14,7 +14,7 @@
 - Champions and Megas can Jogress together, each raising one level.
 - Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.
 - Only VS connection battles count on the Status screen.
-- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.)
+- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)
 
 ### Special Mode
 -----
