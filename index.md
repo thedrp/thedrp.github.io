@@ -1,7 +1,7 @@
 # Welcome to the Digital Research Project
 -----
 This landing page, as well as the rest of the site, is once again under heavy construction. Please bear with us.
-<br>
+<br><br>
 
 # News
 -----
