@@ -22,6 +22,6 @@ In closing, most pages on the site will begin to have a string of categories alo
 
 Note: Various images may be tagged as "missing" for a while after writing this, and some links will take a while to get working again. This is not an error. Many pages and assets have been moved since 2017, but everything will be in order soon enough.
 
-####(All past news updates are logged in the [News Archive](news).)
+#### (All past news updates are logged in the [News Archive](news).)
 
 ![Image missing]({{site.baseurl}}/hosting/digimon-lcd-colored/tama4.png)
