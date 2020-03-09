@@ -15,6 +15,7 @@
 - Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.
 - Only VS connection battles count on the Status screen.
 - Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)
+- Training Bars do not affect VS Battle performance/code.
 
 ### Special Mode
 -----
@@ -75,7 +76,8 @@ Can be scanned with:
 
 ### Our Current Understandings
 -----
-- Rookie-level Digimon have 3 possible Champion stages.
+- Rookie-level Digimon have 4 possible Champion stages.
+- Waiting for the Call animation to stop counts as a Care Mistake.
 
 ### Unanswered Questions
 -----
