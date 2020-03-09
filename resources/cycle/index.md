@@ -73,12 +73,17 @@ Can be scanned with:
 - Virus + Data = Virus
 - Virus + Virus = Virus
 
+### Our Current Understandings
+-----
+- Rookie-level Digimon have 3 possible Champion stages.
+
 ### Unanswered Questions
 -----
 - Does ignoring a Random Encounter count as a Care Mistake?
 - What does count as a Care Mistake
 - How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
 - What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
+- Is slot determined by Special Mode results?
 
 # Digimon Roster
 -----
