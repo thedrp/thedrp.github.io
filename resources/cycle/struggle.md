@@ -1,8 +1,6 @@
-<p align="center">
 # Myths, Rumors, and Bad Ideas<br>
 ### The struggle of documenting the Pendulum Cycle
-</p>
 
-<p><center><font size="5">Myths, Rumors, and Bad Ideas</font></p>
+<center><font size="5" color="#e8e8e8">Myths, Rumors, and Bad Ideas</font>
 
-<center><font size="5">Myths, Rumors, and Bad Ideas</font>
+# Myths, Rumors, and Bad Ideas<br>
