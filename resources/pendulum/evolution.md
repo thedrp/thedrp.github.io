@@ -1,6 +1,6 @@
 # Digimon Pendulum Evolution Guide
 -----
-#### Contents
+### Contents
 
 [v1 Nature Spirits](#v1-nature-spirits)
 
@@ -16,7 +16,7 @@
 
 -----
 
-## v1 Nature Spirits
+### v1 Nature Spirits
 
 - Babumon
 - Motimon
