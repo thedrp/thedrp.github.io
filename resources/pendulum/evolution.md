@@ -29,7 +29,7 @@
 
 ### v3 Nightmare Soldiers
 
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/moku.png" width="16" height="16" style="background-color:#FFFFFF40;" border:"2" #FFFFFF40> Mokumon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/moku.png" width="16" height="16" style="background-color:#FFFFFF40;" border:"2"> Mokumon
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demimera.png" width="16" height="16" style="background-color:#FFFFFF40;" style="border:2px #FFFFFF40"> DemiMeramon
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/baku.png" width="16" height="16" style="background-color:#FFFFFF40;" style="border:2px #FFFFFF40"> Tapirmon
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/candle.png" width="16" height="16" style="background-color:#FFFFFF40;" style="border:2px #FFFFFF40"> Candlemon
