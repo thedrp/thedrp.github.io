@@ -29,17 +29,17 @@
 
 ### v3 Nightmare Soldiers
 
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/moku.png" width="16" height="16" style="background-color:#FFFFFF80;" border="2" border-color="red;"> Mokumon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demimera.png" width="16" height="16" style="background-color:#FFFFFF80;"> DemiMeramon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/baku.png" width="16" height="16" style="background-color:#80FFFFFF;"> Tapirmon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/candle.png" width="16" height="16" style="background-color:#80FFFFFF;"> Candlemon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demidevi.png" width="16" height="16" style="background-color:#80FFFFFF;"> DemiDevimon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/ape.png" width="16" height="16" style="background-color:#80FFFFFF;"> Apemon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/garuru.png" width="16" height="16" style="background-color:#80FFFFFF;"> Garurumon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/mera.png" width="16" height="16" style="background-color:#80FFFFFF;"> Meramon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/wizard.png" width="16" height="16" style="background-color:#80FFFFFF;"> Wizardmon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/devi.png" width="16" height="16" style="background-color:#80FFFFFF;"> Devimon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/bake.png" width="16" height="16">/<img src="{{site.baseurl}}/hosting/digimon-lcd-colored/dokugu.png" width="16" height="16"> Bakemon/Dokugumon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/moku.png" width="16" height="16" style="background-color:#FFFFFF40;"> Mokumon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demimera.png" width="16" height="16" style="background-color:#FFFFFF40;"> DemiMeramon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/baku.png" width="16" height="16" style="background-color:#FFFFFF40;"> Tapirmon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/candle.png" width="16" height="16" style="background-color:#FFFFFF40;"> Candlemon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demidevi.png" width="16" height="16" style="background-color:#FFFFFF40;"> DemiDevimon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/ape.png" width="16" height="16" style="background-color:#FFFFFF40;"> Apemon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/garuru.png" width="16" height="16" style="background-color:#FFFFFF40;"> Garurumon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/mera.png" width="16" height="16" style="background-color:#FFFFFF40;"> Meramon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/wizard.png" width="16" height="16" style="background-color:#FFFFFF40;"> Wizardmon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/devi.png" width="16" height="16" style="background-color:#FFFFFF40;"> Devimon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/bake.png" width="16" height="16" style="background-color:#FFFFFF40;">/<img src="{{site.baseurl}}/hosting/digimon-lcd-colored/dokugu.png" width="16" height="16" style="background-color:#FFFFFF40;"> Bakemon/Dokugumon
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/.png" width="16" height="16">
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/.png" width="16" height="16">
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/.png" width="16" height="16">
@@ -50,8 +50,8 @@
 - Nyokimon
 - Yokomon
 - Biyomon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16"> Floramon/Palmon <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16">
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16"> Floramon / <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16"> Palmon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16" style="background-color:#FFFFFF40;"> Floramon/Palmon <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16" style="background-color:#FFFFFF40;">
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16" style="background-color:#FFFFFF40;"> Floramon / <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16" style="background-color:#FFFFFF40;"> Palmon
 - Mushroomon
 
 ### v5 Metal Empire
