@@ -1,4 +1,3 @@
-[v4 Wind Guardians](#v4 wind guardians)
 [v4 Wind Guardians](#v4-wind-guardians)
 
 # v1 Nature Spirits
@@ -13,7 +12,7 @@
 
 - Pichimon
 - Bukamon
-- Gomamon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/goma.png" width=16 height=16>Gomamon
 - Crabmon
 - Syakomon
 
