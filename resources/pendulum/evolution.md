@@ -50,7 +50,8 @@
 - Nyokimon
 - Yokomon
 - Biyomon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16"> Floramon/<img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16"> Palmon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16"> Floramon/Palmon <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16">
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/flora.png" width="16" height="16"> Floramon / <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/pal.png" width="16" height="16"> Palmon
 - Mushroomon
 
 ### v5 Metal Empire
