@@ -1,4 +1,5 @@
-[v4 Wind Guardians](#v4 Wind Guardians)
+[v4 Wind Guardians](#v4 wind guardians)
+[v4 Wind Guardians](#v4-wind-guardians)
 
 # v1 Nature Spirits
 
