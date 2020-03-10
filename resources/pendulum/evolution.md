@@ -24,7 +24,7 @@
 - Gotsumon
 - Otamamon
 
-## v2 Deep Savers
+### v2 Deep Savers
 
 - Pichimon
 - Bukamon
@@ -32,7 +32,7 @@
 - Crabmon
 - Syakomon
 
-## v3 Nightmare Soldiers
+### v3 Nightmare Soldiers
 
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/moku.png" width="16" height="16"> Mokumon
 - <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/demimera.png" width="16" height="16"> DemiMeramon
