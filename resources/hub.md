@@ -9,6 +9,10 @@ Includes:
 - [Is the Cycle Good or Bad?]({{site.baseurl}}/resources/cycle/verdict)
 - [Myths, Rumors, and Bad Ideas]({{site.baseurl}}/resources/cycle/struggle)
 
+# Digimon Pendulum Documentation
+-----
+- [Evolution Guide]({{site.baseurl}}/resources/pendulum/evolution)
+
 # Digimon ver.WS Documentation
 -----
 
