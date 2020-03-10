@@ -2,19 +2,35 @@
 
 # v1 Nature Spirits
 
-test
+- Babumon
+- Motimon
+- Tentomon
+- Gotsumon
+- Otamamon
 
 # v2 Deep Savers
 
-test
+- Pichimon
+- Bukamon
+- Gomamon
+- Crabmon
+- Syakomon
 
 # v3 Nightmare Soldiers
 
-test
+- Mokumon
+- DemiMeramon
+- Tapirmon
+- Candlemon
+- DemiDevimon
 
 # v4 Wind Guardians
 
-test
+- Nyokimon
+- Yokomon
+- Biyomon
+- Floramon/Palmon
+- Mushroomon
 
 # v5 Metal Empire
 
