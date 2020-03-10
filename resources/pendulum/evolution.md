@@ -12,7 +12,8 @@
 
 - Pichimon
 - Bukamon
-- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/goma.png" width=16 height=16>Gomamon
+- <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/goma.png" width="16" height="16"> Gomamon
+<img src="{{site.baseurl}}/hosting/digimon-lcd-colored/goma.png" width="16" height="16"> Gomamon
 - Crabmon
 - Syakomon
 
