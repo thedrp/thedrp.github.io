@@ -1,12 +1,20 @@
 # Digimon Pendulum Evolution Guide
 -----
-####Contents
+#### Contents
+
 [v1 Nature Spirits](#v1-nature-spirits)
+
 [v2 Deep Savers](#v2-deep-savers)
+
 [v3 Nightmare Soldiers](#v3-nightmare-soldiers)
+
 [v4 Wind Guardians](#v4-wind-guardians)
+
 [v5 Metal Empire](#v5-metal-empire)
+
 [v0 Virus Busters](#v0-virus-busters)
+
+-----
 
 ## v1 Nature Spirits
 
