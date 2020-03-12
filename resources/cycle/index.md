@@ -16,6 +16,7 @@
 - Only VS connection battles count on the Status screen.
 - Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)
 - Training Bars do not affect VS Battle performance/code.
+- Treating Sickness/Injury will lower weight. (Even when failed)
 
 ### Special Mode
 -----
@@ -33,6 +34,7 @@ Rookie loops (Cycles) daily
 - Training
 - Battling?
 - Passing of time?
+- Medical Treatment
 
 #### Training Styles
 
@@ -78,6 +80,7 @@ Can be scanned with:
 -----
 - Rookie-level Digimon have 4 possible Champion stages.
 - Waiting for the Call animation to stop counts as a Care Mistake.
+- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.
 
 ### Unanswered Questions
 -----
@@ -85,6 +88,7 @@ Can be scanned with:
 - What does count as a Care Mistake
 - How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
 - What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
+  - Seems to in some way make evolution more difficult to achieve.
 - Is slot determined by Special Mode results?
 
 # Digimon Roster
