@@ -1,5 +1,6 @@
+# GIMP files
+*.xcf
+
 # offline assets
 hosting/too-big/
 neodrasil-haru-backup/
-
-*.xcf
