@@ -2,10 +2,10 @@
 -----
 ### Contents
 [Introduction](#introduction)  
-[Growth Modes](#special_mode_vs_normal_mode)  
-[Weight Management](#how_to_affect_weight)  
+[Growth Modes](#special-mode-vs-normal-mode)  
+[Weight Management](#how-to-affect-weight)  
 [Connections](#connections)
-[Rosters](#digimon_roster)
+[Rosters](#digimon-roster)
 [Evolution Guide](resources/cycle/evolution)
 [Extras](#extras)
 
