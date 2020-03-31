@@ -11,7 +11,7 @@ E-Mail: [thedigitalresearchproject@gmail.com](thedigitalresearchproject@gmail.co
 -----
 Digimon LCD sprites are from the various official Digimon devices.
 
-LCD sprites are colored and/or modified by Robert Mato unless otherwise stated in these credits.
+LCD sprites are colored and/or modified by Mato unless otherwise stated in these credits.
 
 Pendulum Cycle ver.8 manual scans by "Cruithne" at [http://dimensionalarea.net](http://dimensionalarea.net)
 
