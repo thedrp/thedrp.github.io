@@ -1,5 +1,7 @@
 # Pendulum Cycle Evolution Guide
 -----
+#### Note: This guide is very much a work in progress and will be updated regularly.
+
 ### Contents
 
 [v7 Deep Savers](#v7-deep-savers)  
@@ -42,27 +44,42 @@
   - Hatched from Egg
 - DemiMeramon
   - Wait 1 hour
+#### Rookie
 - Gabumon
-- Tapirmon
-- Candlemon -> Garurumon, Meramon, Wizardmon, Devimon
+  - DemiMeramon: Wait 60-90 minutes, ???
+- Candlemon
+  - DemiMeramon: Wait 60-90 minutes, ???
 - DemiDevimon
+  - DemiMeramon: Wait 60-90 minutes, ???
+#### Champion
 - Apemon
+  - DemiDevimon: 54-63lb
+  - Gabumon: ???
 - Garurumon
-- Meramon -> SkullMeramon, Pumpkinmon
+  - Candlemon: 36-55lb, ???
+  - Gabumon: ???
+- Meramon
+  - Candlemon: 36-73lb, no other conditions met
 - Wizardmon
+  - Candlemon: 58lb, 4+ Care Mistakes?
 - Devimon
+  - Candlemon: 55-76lb, ???
 - Bakemon
+  - DemiDevimon: 31-43lb, 2+ Care Mistakes?
+#### Ultimate
 - Mammothmon
-- WereGarurumon -> SkullMammon
-- SkullMeramon -> ???
-- Pumpkinmon -> Boltmon, VenomMyotismon
+- WereGarurumon
+- SkullMeramon
+- Pumpkinmon
 - Myotismon
 - Arukenimon
-- Phantomon -> Piedmon
-- SkullMammon -> MetalGarurumon, DeviTamamon
-- Boltmon -> MetalGarurumon, DeviTamamon, MaloMyotismon
-- Piedmon -> DeviTamamon, MaloMyotismon
-- VenomMyotismon -> DeviTamamon, MaloMyotismon
+- Phantomon
+#### Mega
+- SkullMammon
+- Boltmon
+- Piedmon
+- VenomMyotismon
+#### Secret Mega
 - MetalGarurumon
 - DeviTamamon
 - MaloMyotismon
