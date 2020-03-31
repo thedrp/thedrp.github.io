@@ -1,36 +1,52 @@
 # Introduction to the Pendulum Cycle
 -----
-- Strength drains upon evo (but Training doesn't)
-- Evo attempts to happen every 60-90 minutes.
-- Strength hearts must be full (4) for evo to succeed
-- 5 Training squares = 1 Strength heart. Training drops every 15 minutes.
-- 30m w/lights off will put a Digimon to sleep
-- Shaking will wake up a sleeping Digimon
-- If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)
-- Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)
-- 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?
-- Failed Jogress can result in Injury
-- Any Champion or Mega can Jogress with any other. Type combo determines outcome.
-- Champions and Megas can Jogress together, each raising one level.
-- Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.
-- Only VS connection battles count on the Status screen.
-- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)
-- Training Bars do not affect VS Battle performance/code.
-- Treating Sickness/Injury will lower weight. (Even when failed)
+### Contents
+[Introduction](#introduction)  
+[Growth Modes](#special_mode_vs_normal_mode)  
+[Weight Management](#how_to_affect_weight)  
+[Connections](#connections)
+[Rosters](#digimon_roster)
+[Evolution Guide](resources/cycle/evolution)
+[Extras](#extras)
 
-### Special Mode
------
-Am babey
+- Strength drains upon evo (but Training doesn't)*
+- Evo attempts to happen every 60-90 minutes.*
+- Strength hearts must be full (4) for evo to succeed*
+- 5 Training squares = 1 Strength heart. Training drops every 15 minutes.*
+- 30m w/lights off will put a Digimon to sleep* (check for interruptions)
+- Shaking will wake up a sleeping Digimon* (check for stress)
+- If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)*
+- Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)* (include meme)
+- 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?*
+- Failed Jogress can result in Injury*
+- Any Champion or Mega can Jogress with any other. Type combo determines outcome.*
+- Champions and Megas can Jogress together, each raising one level.*
+- Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.*
+- Only VS connection battles count on the Status screen.*
+- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)*
+- Training Bars do not affect VS Battle performance/code.*
+- Treating Sickness/Injury will lower weight. (Even when failed)*
+- Scanning into a D-Terminal requires full Strength hearts. (Hearts aren't drained)*
 
-### Normal Mode
+### Introduction
 -----
-Rookie loops (Cycles) daily
+text
+
+#### Note: The official instruction manual uses English dub terminology and names to refer to the Cycle and its Digimon, so that's what I'll be using here.
+
+### Special Mode VS Normal Mode
+-----
+The Pendulum Cycle has two modes of growth. Special Mode and Normal Mode. Special Mode is the state from Egg until Rookie, while Normal Mode is Rookie and higher which eventually reverts back down to Rookie at the end of the day. This daily growth and reversion of Normal Mode is what's considered to be a "cycle", and is the namesake of the device.
+
+During Special Mode, the Digimon will hatch from its egg into Fresh-stage. After 1 hour, it will evolve to In-Training, and after 60-90 minutes more it will evolve to one of 3 Rookie-level Digimon, entering Normal Mode.
+
+Once a Digimon has reached Rookie and begun Normal Mode, it will attempt to evolve every 60-90 minutes, with that timer resetting each time it succeeds. At the end of the day, when it falls asleep naturally, it will revert back down to the Rookie form it achieved at the end of Special Mode. That means the only way to get a different Rookie-level Digimon is to reset the device, or wait for your Digimon to die. Either way will let you hatch a new egg, play Special Mode again, and possibly get a different Rookie.
 
 ### How to Affect Weight
 -----
 - Poop
-- Bread
-- Meat
+- Bread +1
+- Meat +2
 - Training
 - Battling?
 - Passing of time?
@@ -45,7 +61,7 @@ v8 Wind Guardians: Shoot for distance. The shot will continue off-screen for a M
 v9 Nightmare Soldiers: Smash a rock. Destroy it entirely for a MegaHit. (The Digimon will continue off-screen)
 v10 Metal Empire: Lift a weight. Lift it all the way off-screen for a MegaHit.
 
-A MegaHit fills 4 Training bars.
+A MegaHit fills 4 Training bars.*
 
 ### Connections
 -----
@@ -78,9 +94,9 @@ Can be scanned with:
 
 ### Our Current Understandings
 -----
-- Rookie-level Digimon have 4 possible Champion stages.
-- Waiting for the Call animation to stop counts as a Care Mistake.
-- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.
+- Rookie-level Digimon have 4 possible Champion stages.*
+- Waiting for the Call animation to stop counts as a Care Mistake.*
+- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.*
 
 ### Unanswered Questions
 -----
@@ -96,35 +112,36 @@ Can be scanned with:
 
 ### ver.7 Deep Savers
 - Pichimon
-- Pukamon
+- Bukamon
 - Gomamon
-- Ganimon
-- Shakomon
+- Crabmon
+- Syakomon
 - Ikkakumon
-- Rukamon
+- Dolphmon
 - Seadramon
 - Coelamon
-- Ebidramon
 - Gesomon
 - Octomon
 - Zudomon
 - Whamon
 - MegaSeadramon
-- Anomalocarimon
-- Hangyomon
+- Divermon
+- Scorpiomon
 - MarineDevimon
 - Dagomon
+- ???
 - MarineAngemon
 - MetalSeadramon
-- Plesiomon
 - Pukumon
+- Vikemon
+- Plesiomon
+- Moon=Millenniummon
 
 ### ver.8 Nightmare Soldiers
 - Mokumon
 - DemiMeramon
 - Gabumon
-- Tapirmon
-- Candlemon -> Garurumon, Meramon, Wizardmon
+- Candlemon -> Garurumon, Meramon, Wizardmon, Devimon
 - DemiDevimon
 - Apemon
 - Garurumon
@@ -135,23 +152,73 @@ Can be scanned with:
 - Mammothmon
 - WereGarurumon -> SkullMammon
 - SkullMeramon -> ???
-- Pumpkinmon -> Boltmon
+- Pumpkinmon -> Boltmon, VenomMyotismon
 - Myotismon
 - Arukenimon
-- Phantomon
-- SkullMammon -> MetalGarurumon
-- Boltmon -> DeviTamamon
-- Piedmon
-- Daemon
+- Phantomon -> Piedmon
+- SkullMammon -> MetalGarurumon, DeviTamamon
+- Boltmon -> MetalGarurumon, DeviTamamon, MaloMyotismon
+- Piedmon -> DeviTamamon, MaloMyotismon
+- VenomMyotismon -> DeviTamamon, MaloMyotismon
 - MetalGarurumon
 - DeviTamamon
 - MaloMyotismon
 
 ### ver.9 Wind Guardians
-
+- Nyokimon
+- Yokomon
+- Biyomon
+- Palmon
+- Mushroomon
+- Veedramon
+- Birdramon
+- Togemon
+- Kiwimon
+- Woodmon
+- RedVegiemon
+- AeroVeedramon
+- Garudamon
+- Lillymon
+- Blossomon
+- Deramon
+- Cherrymon
+- Garbagemon
+- Phoenixmon
+- Rosemon
+- Gryphonmon
+- Puppetmon
+- Valkyriemon
+- AncientTroymon
+- Ghoulmon
 
 ### ver.10 Metal Empire
+- Choromon
+- Kapurimon
+- ToyAgumon
+- Kokuwamon
+- Hagurumon
+- Greymon
+- Deputymon
+- Tankmon
+- Clockmon
+- Guardromon
+- Mechanorimon
+- MetalGreymon
+- Andromon
+- Cyberdramon
+- Knightmon
+- BigMamemon
+- Megadramon
+- WaruMonzaemon
+- WarGreymon
+- MetalGarurumon
+- Machinedramon
+- HiAndromon
+- AncientGreymon
+- AncientGarurumon
+- AncientSphinxmon
 
+#### Click [here](resources/cycle/evolution) to view our Cycle Evolution Guide.
 
 # Extras
 -----
