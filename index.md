@@ -5,6 +5,15 @@ This landing page, as well as the rest of the site, is once again under heavy co
 
 # News
 -----
+#### March 31, 2020
+I'm preparing for the site to start actually getting used a bit. Specifically, the Cycle documentation. So there's a decent chance someone might be reading this. In which case, hi, how's it going? I'm Mato. <img src="{{site.baseurl}}/hosting/digimon-lcd-colored/aeroveedra.png" width="16" height="16">
+
+I'll be repeating myself a bit, but let me sum up the basics.  
+Up at the top, [Resources](resources/hub) will take you to a little hub of anything this site offers. It's a small list right now, as most of it is still under construction, but anything we have will be listed there.  
+Then over on the right (or the bottom row on mobile) are direct links to any guides we have. You can quickly jump to a device from there.
+
+All of our contact info, as well as our Discord server, is listed on the [About](about) page. If you want to contribute to our research, or talk with us about anything else relevant, hop into our Discord or send us an email.
+
 #### March 8, 2020
 The navbar has been made much more usable. Most of the site is still in a messy WIP state, but everything should be accessible now. I'll be filling out pages tonight, as well as propagating the few broken links that might be left.
 
