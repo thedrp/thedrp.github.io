@@ -9,7 +9,7 @@ Each Digimon on the Cycle corresponds to a slot in the DMOG, as expected, with e
 - Champion = Champion
 - Ultimate = strong Champion or weak Ultimate
 - Mega = 1st or 2nd Ultimate
-- "Secret Mega" = Monzaemon
+- "Secret Mega" = Slot L (ie, Monzaemon)
 
 One note of interest is that, so far, it seems that if a species of Digimon in a Cycle existed on a DMOG version, it will use that slot within the OG Ruleset on the Cycle. As an example, since Devimon existed on the DMOG v1 in Slot E, a Devimon on the Cycle will be Slot E when battling using the OG Ruleset. (Examples can be found at the bottom of this page.) I'm still working on collecting DMOG serials from Cycles for the few other Digimon that existed on the DMOG in order to confirm if this is always the case.
 
