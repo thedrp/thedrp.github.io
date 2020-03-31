@@ -44,6 +44,7 @@
   - Hatched from Egg
 - DemiMeramon
   - Wait 1 hour
+
 #### Rookie
 - Gabumon
   - DemiMeramon: Wait 60-90 minutes, ???
@@ -51,6 +52,7 @@
   - DemiMeramon: Wait 60-90 minutes, ???
 - DemiDevimon
   - DemiMeramon: Wait 60-90 minutes, ???
+
 #### Champion
 - Apemon
   - DemiDevimon: 54-63lb
@@ -66,6 +68,7 @@
   - Candlemon: 55-76lb, ???
 - Bakemon
   - DemiDevimon: 31-43lb, 2+ Care Mistakes?
+
 #### Ultimate
 - Mammothmon
 - WereGarurumon
@@ -74,11 +77,13 @@
 - Myotismon
 - Arukenimon
 - Phantomon
+
 #### Mega
 - SkullMammon
 - Boltmon
 - Piedmon
 - VenomMyotismon
+
 #### Secret Mega
 - MetalGarurumon
 - DeviTamamon
