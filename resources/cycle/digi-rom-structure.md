@@ -37,6 +37,7 @@ If MegaHit, then `Effort = 2 + X`
     else `Effort = X - 2`  
 With the reminder that Effort can't be higher than 4, or lower than 0. If it would be higher than 4, it just sets to 4 instead, and if lower than 0 it becomes 0.
 
+### Digi-ROMs  
 Finally, a short list of Digi-ROMs pulled from my PenCycle v8 Nightmare Soldiers:
 - `DB24-2DD2` Candlemon (slot B, 4 Strength, 0 Count, Loss)
 - `DB24-2DD2` DemiDevimon (slot B, 4 Strength, 0 Count, Loss)
