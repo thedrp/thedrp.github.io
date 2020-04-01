@@ -1,7 +1,7 @@
 # Pendulum Cycle Evolution Guide
 -----
 #### Note: This guide is very much a work in progress and will be updated regularly.  
-#### If you would like to contribute to this guide, please join our [Discord](https://discord.gg/2Hu2AVT).
+If you would like to contribute to this guide, please join our [Discord](https://discord.gg/2Hu2AVT).
 
 ### Contents
 
@@ -12,7 +12,7 @@
 
 -----
 
-### v7 Deep Savers
+## v7 Deep Savers
 - Pichimon
 - Bukamon
 - Gomamon
@@ -38,8 +38,8 @@
 - Vikemon
 - Plesiomon
 - Moon=Millenniummon
-
-### v8 Nightmare Soldiers
+-----
+## v8 Nightmare Soldiers
 #### Fresh & In-Training
 - Mokumon
   - Hatched from Egg
@@ -107,7 +107,7 @@
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - MaloMyotismon
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
-
+-----
 ### v9 Wind Guardians
 - Nyokimon
 - Yokomon
