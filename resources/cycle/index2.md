@@ -82,7 +82,7 @@ Can be scanned with:
 -----
 - Rookie-level Digimon have 4 possible Champion stages.*
 - Waiting for the Call animation to stop counts as a Care Mistake.*
-- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.*
+- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.
 
 ### Unanswered Questions
 -----
@@ -91,7 +91,6 @@ Can be scanned with:
 - How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
 - What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
   - Seems to in some way make evolution more difficult to achieve.
-- Is slot determined by Special Mode results?
 
 # Digimon Roster
 -----

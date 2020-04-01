@@ -2,28 +2,28 @@
 -----
 ### Contents
 [Introduction](#introduction)  
+[Menus & Controls](#menus-&-controls)  
 [Growth Modes](#special-mode-vs-normal-mode)  
 [Weight Management](#how-to-affect-weight)  
 [Connections](#connections)
 [Rosters](#digimon-roster)
-[Evolution Guide](resources/cycle/evolution)
+[Evolution Guide](resources/cycle/Evolution)
 [Extras](#extras)
 
 - Strength drains upon evo (but Training doesn't)*
 - Evo attempts to happen every 60-90 minutes.*
-- Strength hearts must be full (4) for evo to succeed*
 - 5 Training squares = 1 Strength heart. Training drops every 15 minutes.*
 - 30m w/lights off will put a Digimon to sleep* (check for interruptions)
 - Shaking will wake up a sleeping Digimon* (check for stress)
 - If an alarm is set, they won't wake until the alarm rings (won't wake below Rookie)*
-- Special Mode vs Normal Mode (Egg > Fresh > In-Training VS Rookie+)* (include meme)
+
 - 3 Secret Mega Digimon, only by Jogressing from regular Mega. Same power level?*
 - Failed Jogress can result in Injury*
 - Any Champion or Mega can Jogress with any other. Type combo determines outcome.*
 - Champions and Megas can Jogress together, each raising one level.*
 - Secret Megas can only be reached via Jogressed, and cannot Jogress themselves.*
+
 - Only VS connection battles count on the Status screen.*
-- Care Mistakes reset to 0 when a Digimon sleeps/degenerates. (Generally meaning, Care Mistakes only last for the day.) (It's also possible that evolution resets Care Mistakes)*
 - Training Bars do not affect VS Battle performance/code.*
 - Treating Sickness/Injury will lower weight. (Even when failed)*
 - Scanning into a D-Terminal requires full Strength hearts. (Hearts aren't drained)*
@@ -35,13 +35,21 @@ text
 
 #### Note: The official instruction manual uses English dub terminology and names to refer to the Cycle and its Digimon, so that's what I'll be using here.
 
+### Menus & Controls
+-----
+text
+
 ### Special Mode VS Normal Mode
 -----
 The Pendulum Cycle has two modes of growth. Special Mode and Normal Mode. Special Mode is the state from Egg until Rookie, while Normal Mode is Rookie and higher which eventually reverts back down to Rookie at the end of the day. This daily growth and reversion of Normal Mode is what's considered to be a "cycle", and is the namesake of the device.
 
-During Special Mode, the Digimon will hatch from its egg into Fresh-stage. After 1 hour, it will evolve to In-Training, and after 60-90 minutes more it will evolve to one of 3 Rookie-level Digimon, entering Normal Mode.
+During Special Mode, the Digimon will hatch from its egg into Fresh-stage. After 1 hour, it will evolve to In-Training, and after 60-90 minutes more it will evolve to one of 3 Rookie-level Digimon, entering Normal Mode. How evolution to Rookie is determined is still unknown.
 
-Once a Digimon has reached Rookie and begun Normal Mode, it will attempt to evolve every 60-90 minutes, with that timer resetting each time it succeeds. At the end of the day, when it falls asleep naturally, it will revert back down to the Rookie form it achieved at the end of Special Mode. That means the only way to get a different Rookie-level Digimon is to reset the device, or wait for your Digimon to die. Either way will let you hatch a new egg, play Special Mode again, and possibly get a different Rookie.
+Once a Digimon has reached Rookie and begun Normal Mode, it will attempt to evolve every 60-90 minutes, with that timer resetting each time it succeeds. At the end of the day, when it falls asleep naturally, it will revert back down to the Rookie form it achieved at the end of Special Mode. (Note: Pausing the clock before a Digimon would sleep, then reactivating it at a time past when it would normally wake up will prevent reversion. This is known as "clock pausing"). That means the only way to get a different Rookie-level Digimon is to reset the device, or wait for your Digimon to die. Either way will let you hatch a new egg, play Special Mode again, and possibly get a different Rookie.
+
+Evolution in Normal Mode is determined mainly by your Digimon's weight stat. Keeping your Digimon's weight within a certain range is the key to reaching the evolved stage you want, so managing weight is very important on the Cycle. (Tips on that detailed below) Additionally, Care Mistakes and training seem to be important, though this is still being researched. What is known, is that too many Care Mistakes can prevent some Evolutions from being possible, and Care Mistakes are reset to 0 when a Digimon evolves, as well as at the end of the day when it reverts back down to Rookie.
+
+One other factor that can limit Evolution, is something known as "Stress" in the official manual. The full impact of Stress, as well as how it is tracked is still being researched, as there's no in-game measurement of it. What is currently known is that keeping a Digimon awake for extended periods of time past when it wants to sleep (this includes the "clock pausing" exploit), as well as waking a Digimon via shaking, will cause Stress. Also, having too much Stress built up seems to prevent Evolution entirely.
 
 ### How to Affect Weight
 -----
@@ -57,15 +65,19 @@ Once a Digimon has reached Rookie and begun Normal Mode, it will attempt to evol
 
 Practice Battle: Force a battle against a random opponent. The only opponents you can face are Digimon that can be raised on your device. Mega-level Digimon will only appear if you are at least Ultimate-level. Battles progress just like a Random Encounter. (Canceling the battle is fine and will not count as a loss or Care Mistake.)
 
-v7 Deep Savers: Break blocks. Break them all for a MegaHit.
-v8 Wind Guardians: Shoot for distance. The shot will continue off-screen for a MegaHit.
-v9 Nightmare Soldiers: Smash a rock. Destroy it entirely for a MegaHit. (The Digimon will continue off-screen)
-v10 Metal Empire: Lift a weight. Lift it all the way off-screen for a MegaHit.
+Training Mini-Game: This is a game to raise Training bars, as well as being a great tool to practice shaking a MegaHit Count, as your Count is shown on screen after shaking to confirm how many times you shook the Cycle. The mini-game is different on each version, but is functionally the same. The changes are only cosmetic.
+- v7 Deep Savers: Break blocks. Break them all for a MegaHit.
+- v8 Wind Guardians: Shoot for distance. The shot will continue off-screen for a MegaHit.
+- v9 Nightmare Soldiers: Smash a rock. Destroy it entirely for a MegaHit. (The Digimon will continue off-screen)
+- v10 Metal Empire: Lift a weight. Lift it all the way off-screen for a MegaHit.
 
-A MegaHit fills 4 Training bars.*
+A MegaHit fills 4 Training bars.
 
 ### Connections
 -----
+There are 3 options in the Connection menu on the Pendulum Cycle. VS (to battle another device), Jogress (to fuse with another device), and Scan (to scan into a compatible device).
+
+The Pendulum Cycle...  
 Can battle with:
 - Digimon Pendulum Cycle (Will function like Battle Training or a random encounter?)
 - Original Digital Monster '97 (Uses original/'other' rules)
@@ -103,10 +115,6 @@ Can be scanned with:
 -----
 - Does ignoring a Random Encounter count as a Care Mistake?
 - What does count as a Care Mistake
-- How many times will a Digimon attempt to Digivolve before hitting a limit? (Reset by sleeping/waking?)
-- What does "stress" mean, in the manual? (Waking a Digimon with shakes causes stress over time)
-  - Seems to in some way make evolution more difficult to achieve.
-- Is slot determined by Special Mode results?
 
 # Digimon Roster
 -----
@@ -142,25 +150,25 @@ Can be scanned with:
 - Mokumon
 - DemiMeramon
 - Gabumon
-- Candlemon -> Garurumon, Meramon, Wizardmon, Devimon
+- Candlemon
 - DemiDevimon
 - Apemon
 - Garurumon
-- Meramon -> SkullMeramon, Pumpkinmon
+- Meramon
 - Wizardmon
 - Devimon
 - Bakemon
 - Mammothmon
-- WereGarurumon -> SkullMammon
-- SkullMeramon -> ???
-- Pumpkinmon -> Boltmon, VenomMyotismon
+- WereGarurumon
+- SkullMeramon
+- Pumpkinmon
 - Myotismon
 - Arukenimon
-- Phantomon -> Piedmon
-- SkullMammon -> MetalGarurumon, DeviTamamon
-- Boltmon -> MetalGarurumon, DeviTamamon, MaloMyotismon
-- Piedmon -> DeviTamamon, MaloMyotismon
-- VenomMyotismon -> DeviTamamon, MaloMyotismon
+- Phantomon
+- SkullMammon
+- Boltmon
+- Piedmon
+- VenomMyotismon
 - MetalGarurumon
 - DeviTamamon
 - MaloMyotismon
@@ -219,7 +227,7 @@ Can be scanned with:
 - AncientGarurumon
 - AncientSphinxmon
 
-#### Click [here](resources/cycle/evolution) to view our Cycle Evolution Guide.
+#### Click [here]({{site.baseurl}}/resources/cycle/Evolution) to view our Cycle Evolution Guide.
 
 # Extras
 -----
