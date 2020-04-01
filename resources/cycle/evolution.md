@@ -13,31 +13,67 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 -----
 
 ## v7 Deep Savers
+#### Fresh & In-Training
 - Pichimon
+  - Hatched from Egg
 - Bukamon
+  - Pichimon: Wait 1 hour
+
+#### Rookie
 - Gomamon
+  - Bukamon: Wait 60-90 minutes, ???
 - Crabmon
+  - Bukamon: Wait 60-90 minutes, ???
 - Syakomon
+  - Bukamon: Wait 60-90 minutes, ???
+
+#### Champion
 - Ikkakumon
+  - ???
 - Dolphmon
+  - ???
 - Seadramon
+  - ???
 - Coelamon
+  - ???
 - Gesomon
+  - Gomamon: 31lb
 - Octomon
+  - ???
+
+#### Ultimate
 - Zudomon
+  - ???
 - Whamon
+  - ???
 - MegaSeadramon
+  - ???
 - Divermon
+  - ???
 - Scorpiomon
+  - ???
 - MarineDevimon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 - Dagomon
+  - ???
+
+#### Mega
 - ???
+  - ???
 - MarineAngemon
+  - ???
 - MetalSeadramon
+  - ???
 - Pukumon
+  - MarineDevimon: 54lb
+
+#### Secret Mega
 - Vikemon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - Plesiomon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - Moon=Millenniummon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 -----
 
@@ -112,7 +148,7 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 
 -----
 
-### v9 Wind Guardians
+## v9 Wind Guardians
 #### Fresh & In-Training
 - Nyokimon
   - Hatched from Egg
@@ -181,7 +217,7 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 
 -----
 
-### v10 Metal Empire
+## v10 Metal Empire
 #### Fresh & In-Training
 - Choromon
   - Hatched from Egg
