@@ -2,7 +2,7 @@
 -----
 ### Contents
 [Introduction](#introduction)  
-[Menus & Controls](#menus-&amp;-controls)  
+[Menus & Controls](#menus--controls)  
 [Growth Modes](#special-mode-vs-normal-mode)  
 [Weight Management](#how-to-affect-weight)  
 [Connections](#connections)
