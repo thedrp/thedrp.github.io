@@ -38,7 +38,9 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - Vikemon
 - Plesiomon
 - Moon=Millenniummon
+
 -----
+
 ## v8 Nightmare Soldiers
 #### Fresh & In-Training
 - Mokumon
@@ -107,19 +109,33 @@ If you would like to contribute to this guide, please join our [Discord](https:/
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - MaloMyotismon
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
+
 -----
+
 ### v9 Wind Guardians
+#### Fresh & In-Training
 - Nyokimon
+  - Hatched from Egg
 - Yokomon
+  - Wait 1 hour
+
+#### Rookie
 - Biyomon
+  - Yokomon: Wait 60-90 minutes, ???
 - Palmon
+  - Yokomon: Wait 60-90 minutes, ???
 - Mushroomon
+  - Yokomon: Wait 60-90 minutes, ???
+
+#### Champion
 - Veedramon
 - Birdramon
 - Togemon
 - Kiwimon
 - Woodmon
 - RedVegiemon
+
+#### Ultimate
 - AeroVeedramon
 - Garudamon
 - Lillymon
@@ -127,26 +143,39 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - Deramon
 - Cherrymon
 - Garbagemon
+
+#### Mega
 - Phoenixmon
 - Rosemon
 - Gryphonmon
 - Puppetmon
+
+#### Secret Mega
 - Valkyriemon
 - AncientTroymon
 - Ghoulmon
 
+-----
+
 ### v10 Metal Empire
+#### Fresh & In-Training
 - Choromon
 - Kapurimon
+
+#### Rookie
 - ToyAgumon
 - Kokuwamon
 - Hagurumon
+
+#### Champion
 - Greymon
 - Deputymon
 - Tankmon
 - Clockmon
 - Guardromon
 - Mechanorimon
+
+#### Ultimate
 - MetalGreymon
 - Andromon
 - Cyberdramon
@@ -154,10 +183,14 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - BigMamemon
 - Megadramon
 - WaruMonzaemon
+
+#### Mega
 - WarGreymon
 - MetalGarurumon
 - Machinedramon
 - HiAndromon
+
+#### Secret Mega
 - AncientGreymon
 - AncientGarurumon
 - AncientSphinxmon
