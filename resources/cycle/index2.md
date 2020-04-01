@@ -18,6 +18,7 @@
 - Training Bars do not affect VS Battle performance/code.*
 - Treating Sickness/Injury will lower weight. (Even when failed)*
 - Scanning into a D-Terminal requires full Strength hearts. (Hearts aren't drained)*
+- MegaHit Counts are in sets. Higher level Digimon can't use the lower Counts in a set. Rookie-level Digimon only have a single MegaHit Count.
 
 ### Special Mode
 -----
