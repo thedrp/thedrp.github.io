@@ -46,7 +46,7 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - Mokumon
   - Hatched from Egg
 - DemiMeramon
-  - Wait 1 hour
+  - Mokumon: Wait 1 hour
 
 #### Rookie
 - Gabumon
@@ -117,7 +117,7 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - Nyokimon
   - Hatched from Egg
 - Yokomon
-  - Wait 1 hour
+  - Nyokimon: Wait 1 hour
 
 #### Rookie
 - Biyomon
@@ -169,7 +169,7 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 - Gryphonmon
   - Blossomon: 60-75lb
 - Puppetmon
-  - ???
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 #### Secret Mega
 - Valkyriemon
@@ -184,37 +184,63 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 ### v10 Metal Empire
 #### Fresh & In-Training
 - Choromon
+  - Hatched from Egg
 - Kapurimon
+  - Choromon: Wait 1 hour
 
 #### Rookie
 - ToyAgumon
+  - Kapurimon: Wait 60-90 minutes, ???
 - Kokuwamon
+  - Kapurimon: Wait 60-90 minutes, ???
 - Hagurumon
+  - Kapurimon: Wait 60-90 minutes, ???
 
 #### Champion
 - Greymon
+  - ToyAgumon: ???
 - Deputymon
+  - Kokuwamon: 40lb
 - Tankmon
+  - Kokuwamon: 73lb
 - Clockmon
+  - Kokuwamon: ???
 - Guardromon
+  - Hagurumon: 38lb
 - Mechanorimon
+  - ToyAgumon: ???
 
 #### Ultimate
 - MetalGreymon
+  - ???
 - Andromon
+  - Greymon: ???
+  - Clockmon: ???
 - Cyberdramon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - Knightmon
+  - Deputymon: 66lb
 - BigMamemon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - Megadramon
+  - ???
 - WaruMonzaemon
+  - ???
 
 #### Mega
 - WarGreymon
+  - ???
 - MetalGarurumon
+  - ???
 - Machinedramon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 - HiAndromon
+  - ???
 
 #### Secret Mega
 - AncientGreymon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - AncientGarurumon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - AncientSphinxmon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
