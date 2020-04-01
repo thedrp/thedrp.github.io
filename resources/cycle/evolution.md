@@ -1,6 +1,7 @@
 # Pendulum Cycle Evolution Guide
 -----
-#### Note: This guide is very much a work in progress and will be updated regularly.
+#### Note: This guide is very much a work in progress and will be updated regularly.  
+#### If you would like to contribute to this guide, please join our [Discord](https://discord.gg/2Hu2AVT).
 
 ### Contents
 
@@ -55,11 +56,11 @@
 
 #### Champion
 - Apemon
-  - DemiDevimon: 54-63lb
   - Gabumon: ???
+  - DemiDevimon: 54-65lb
 - Garurumon
+  - Gabumon: 58lb
   - Candlemon: 36-55lb, ???
-  - Gabumon: ???
 - Meramon
   - Candlemon: 36-73lb, no other conditions met
 - Wizardmon
@@ -71,23 +72,41 @@
 
 #### Ultimate
 - Mammothmon
+  - ???
 - WereGarurumon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - SkullMeramon
+  - Apemon: 45-59lb?
+  - Meramon: 33-55lb
+  - Wizardmon: 51lb
 - Pumpkinmon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - Myotismon
+  - ???
 - Arukenimon
+  - Garurumon: 57lb
+  - Bakemon: ???
 - Phantomon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 #### Mega
 - SkullMammon
+  - WereGarurumon: 67-98lb
 - Boltmon
+  - Pumpkinmon: 41lb
 - Piedmon
+  - Phantomon: 54-89lb
 - VenomMyotismon
+  - Arukenimon: 68lb?
+  - Pumpkinmon: 37-41lb
 
 #### Secret Mega
 - MetalGarurumon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - DeviTamamon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - MaloMyotismon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 ### v9 Wind Guardians
 - Nyokimon
