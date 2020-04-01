@@ -129,31 +129,55 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 
 #### Champion
 - Veedramon
+  - Mushroomon: 50-65lb
 - Birdramon
+  - Biyomon: ???
 - Togemon
+  - Palmon: 35-70lb, 0-3 Care Mistakes
 - Kiwimon
+  - Biyomon: ???
+  - Palmon: 35-70lb, 4+ Care Mistakes
 - Woodmon
+  - ???
 - RedVegiemon
+  - Mushroomon: 35-49lb
 
 #### Ultimate
 - AeroVeedramon
+  - ???
 - Garudamon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - Lillymon
+  - Veedramon: 35-50lb
+  - Togemon: 30-64lb
+  - Kiwimon: 30-59lb, 0-3 Care Mistakes
 - Blossomon
+  - Birdramon: 48lb
+  - RedVegiemon: 55-65lb
 - Deramon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - Cherrymon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 - Garbagemon
+  - ???
 
 #### Mega
 - Phoenixmon
+  - Garudamon: 45lb
 - Rosemon
+  - Lillymon: 30-49lb
 - Gryphonmon
+  - Blossomon: 60-75lb
 - Puppetmon
+  - ???
 
 #### Secret Mega
 - Valkyriemon
+  - Jogress: (Va + Va) (Va + Da) (Da + Va)
 - AncientTroymon
+  - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
 - Ghoulmon
+  - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 -----
 
