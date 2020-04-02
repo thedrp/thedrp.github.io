@@ -6,10 +6,12 @@
 [Growth Modes](#special-mode-vs-normal-mode)  
 [Weight Management](#how-to-affect-weight)  
 [Connections](#connections)
+[Other Info & Myths](#other-information--questions)
 [Rosters](#digimon-roster)
 [Evolution Guide](resources/cycle/Evolution)
 [Extras](#extras)
 
+<!--
 - Strength drains upon evo (but Training doesn't)*
 - Evo attempts to happen every 60-90 minutes.*
 - 5 Training squares = 1 Strength heart. Training drops every 15 minutes.*
@@ -26,18 +28,32 @@
 - Only VS connection battles count on the Status screen.*
 - Training Bars do not affect VS Battle performance/code.*
 - Treating Sickness/Injury will lower weight. (Even when failed)*
-- Scanning into a D-Terminal requires full Strength hearts. (Hearts aren't drained)*
 - MegaHit Counts are in sets. Higher level Digimon can't use the lower Counts in a set. Rookie-level Digimon only have a single MegaHit Count.
 
 ### Introduction
 -----
 text
-
+-->
 #### Note: The official instruction manual uses English dub terminology and names to refer to the Cycle and its Digimon, so that's what I'll be using here.
 
 ### Menus & Controls
 -----
-text
+- Status: This menu shows you your Digimon's information. Press B to cycle forward, and A to cycle in reverse through the pages. Age and weight are on the first screen, followed by the Hunger, Training, and Strength bars. After that is the number of battles won, total, and a win rate percentage. The final screen shows your Digimon's Type (Va/Da/Vi) and either an O or an X telling you if it can or cannot Battle or Jogress.
+- Food: This menu lets you select either Meat or Bread to feed your Digimon. Bread restores 1 Hunger Heart and gives +1 to weight, while Meat restores 1 Training Bar and gives +2 to weight.
+- Training: Use this menu to raise your Digimon's Training Bars, which then will raise its Strength Hearts. (5 Training = 1 Strength) You can either play a Training Mini-Game, or have a practice battle against an random Digimon. (More details [below](#how-to-affect-weight).)
+- Connect: This menu lets you either connect to another device to battle, scan, or Jogress. (More details [below](#connections).)
+- Poop: This cleans up all poop on the screen.
+- Light: Turn the light off when you Digimon wants to sleep, or turn it off while it's still awake and it will fall asleep after 30 minutes.
+- Medical: Select the top option to cure your Digimon's illness, or the bottom option to repair its injury. It may take multiple attempts. Each attempt will lower your Digimon's weight, successful or not.
+
+- Clock: Press the B button on the main screen to see the clock.
+  - Press A to view the Alarm.
+    - Press A to toggle the alarm on or off.
+    - Press B to adjust the alarm.
+      - Press C to confirm the new alarm time.
+    - Press C to return to the Clock.
+  - Press B again to close the clock and return to the main screen.
+  - Press C to toggle between 12h and 24h time formats.
 
 ### Special Mode VS Normal Mode
 -----
@@ -53,13 +69,13 @@ One other factor that can limit Evolution, is something known as "Stress" in the
 
 ### How to Affect Weight
 -----
-- Poop
-- Bread +1
-- Meat +2
-- Training
+- Poop -1lb
+- Bread +1lb
+- Meat +2lb
+- Training -2lb (MegaHit -4lb)
 - Battling?
-- Passing of time?
-- Medical Treatment
+- Passing of time -?lb
+- Medical Treatment -?lb
 
 #### Training Styles
 
@@ -105,16 +121,13 @@ Can be scanned with:
 - Virus + Data = Virus
 - Virus + Virus = Virus
 
-### Our Current Understandings
+### Other Information & Questions
 -----
-- Rookie-level Digimon have 4 possible Champion stages.*
-- Waiting for the Call animation to stop counts as a Care Mistake.*
-- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.*
-
-### Unanswered Questions
------
-- Does ignoring a Random Encounter count as a Care Mistake?
-- What does count as a Care Mistake
+- Rookie-level Digimon each have 4 possible Champion stages. The two that share its type (Va/Da/Vi) and one of either other type.
+- Waiting for the Call animation to stop counts as a Care Mistake. (~5 min)
+- Stress is counted by hours awake, not by sleep. So pausing overnight means it's awake for two daytimes, resulting in being stressed.
+- We do not yet know if ignoring a Random Encounter counts as a Care Mistake.
+- Stress and Care Mistakes might be the same thing. There's still a lot to learn about the Stress mechanic.
 
 # Digimon Roster
 -----

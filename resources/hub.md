@@ -4,7 +4,7 @@
 This is a currently in development guide detailing everything about the Pendulum Cycle devices.
 
 Includes:
-- Detailed profile on how the Cycle works (_Coming Soon_)<!--[Detailed profile on how the Cycle works](resources/cycle/index)-->
+- [Detailed profile on how the Cycle works](resources/cycle/index)
 - [Evolution Guide]({{site.baseurl}}/resources/cycle/evolution)<!--(https://docs.google.com/spreadsheets/d/1_29MaSDrVyq3mdV_eAEQcQYbdcmmB5U-17CdGEzVYmE/edit?usp=sharing)-->
 - [Digi-ROM Structure]({{site.baseurl}}/resources/cycle/digi-rom-structure)
 
