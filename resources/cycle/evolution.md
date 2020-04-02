@@ -10,6 +10,8 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 [v9 Wind Guardians](#v9-wind-guardians)  
 [v10 Metal Empire](#v10-metal-empire)  
 
+(MegaHit Counts are marked in [] next to each Digimon.)
+
 -----
 
 ## v7 Deep Savers
@@ -20,11 +22,11 @@ If you would like to contribute to this guide, please join our [Discord](https:/
   - Pichimon: Wait 1 hour
 
 #### Rookie
-- Gomamon
+- Gomamon [23]
   - Bukamon: Wait 60-90 minutes, ???
 - Crabmon
   - Bukamon: Wait 60-90 minutes, ???
-- Syakomon
+- Syakomon [28]
   - Bukamon: Wait 60-90 minutes, ???
 
 #### Champion
@@ -79,204 +81,204 @@ If you would like to contribute to this guide, please join our [Discord](https:/
 
 ## v8 Nightmare Soldiers
 #### Fresh & In-Training
-- Mokumon
+- Mokumon [19/20]
   - Hatched from Egg
-- DemiMeramon
+- DemiMeramon [19/20]
   - Mokumon: Wait 1 hour
 
 #### Rookie
-- Gabumon
+- Gabumon [36]
   - DemiMeramon: Wait 60-90 minutes, ???
-- Candlemon
+- Candlemon [23]
   - DemiMeramon: Wait 60-90 minutes, ???
-- DemiDevimon
+- DemiDevimon [28]
   - DemiMeramon: Wait 60-90 minutes, ???
 
 #### Champion
-- Apemon
+- Apemon [19/28]
   - Gabumon: ???
   - DemiDevimon: 54-65lb
-- Garurumon
+- Garurumon [23]
   - Gabumon: 58lb
   - Candlemon: 36-55lb, ???
-- Meramon
+- Meramon [26]
   - Candlemon: 36-73lb, no other conditions met
-- Wizardmon
+- Wizardmon [22/25]
   - Candlemon: 58lb, 4+ Care Mistakes?
-- Devimon
+- Devimon [24]
   - Candlemon: 55-76lb, ???
-- Bakemon
+- Bakemon [23]
   - DemiDevimon: 31-43lb, 2+ Care Mistakes?
 
 #### Ultimate
-- Mammothmon
+- Mammothmon [?]
   - ???
-- WereGarurumon
+- WereGarurumon [18/19/30/31]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- SkullMeramon
+- SkullMeramon [19/28]
   - Apemon: 45-59lb?
   - Meramon: 33-55lb
   - Wizardmon: 51lb
-- Pumpkinmon
+- Pumpkinmon [24]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- Myotismon
+- Myotismon [?]
   - ???
-- Arukenimon
+- Arukenimon [30/31]
   - Garurumon: 57lb
   - Bakemon: ???
-- Phantomon
+- Phantomon [19/28]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 #### Mega
-- SkullMammon
+- SkullMammon [28/33/34]
   - WereGarurumon: 67-98lb
-- Boltmon
+- Boltmon [22/25/29]
   - Pumpkinmon: 41lb
-- Piedmon
+- Piedmon [19/20/28]
   - Phantomon: 54-89lb
-- VenomMyotismon
+- VenomMyotismon [28/33/34]
   - Arukenimon: 68lb?
   - Pumpkinmon: 37-41lb
 
 #### Secret Mega
-- MetalGarurumon
+- MetalGarurumon [24/36]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- DeviTamamon
+- DeviTamamon [28/33/34]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- MaloMyotismon
+- MaloMyotismon [25/29/30/31]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 -----
 
 ## v9 Wind Guardians
 #### Fresh & In-Training
-- Nyokimon
+- Nyokimon [19/20]
   - Hatched from Egg
-- Yokomon
+- Yokomon [19/20]
   - Nyokimon: Wait 1 hour
 
 #### Rookie
-- Biyomon
+- Biyomon [19/20]
   - Yokomon: Wait 60-90 minutes, ???
-- Palmon
+- Palmon [24]
   - Yokomon: Wait 60-90 minutes, ???
-- Mushroomon
+- Mushroomon [26]
   - Yokomon: Wait 60-90 minutes, ???
 
 #### Champion
-- Veedramon
+- Veedramon [19/28]
   - Mushroomon: 50-65lb
-- Birdramon
+- Birdramon [?]
   - Biyomon: ???
-- Togemon
+- Togemon [26]
   - Palmon: 35-70lb, 0-3 Care Mistakes
-- Kiwimon
+- Kiwimon [25/29]
   - Biyomon: ???
   - Palmon: 35-70lb, 4+ Care Mistakes
-- Woodmon
+- Woodmon [?]
   - ???
-- RedVegiemon
+- RedVegiemon [24/36]
   - Mushroomon: 35-49lb
 
 #### Ultimate
-- AeroVeedramon
+- AeroVeedramon [?]
   - ???
-- Garudamon
+- Garudamon [18/19]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- Lillymon
+- Lillymon [28]
   - Veedramon: 35-50lb
   - Togemon: 30-64lb
   - Kiwimon: 30-59lb, 0-3 Care Mistakes
-- Blossomon
+- Blossomon [18/19/29]
   - Birdramon: 48lb
   - RedVegiemon: 55-65lb
-- Deramon
+- Deramon [24]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- Cherrymon
+- Cherrymon [19]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
-- Garbagemon
+- Garbagemon [?]
   - ???
 
 #### Mega
-- Phoenixmon
+- Phoenixmon [28/33/34]
   - Garudamon: 45lb
-- Rosemon
+- Rosemon [22/25/29]
   - Lillymon: 30-49lb
-- Gryphonmon
+- Gryphonmon [28]
   - Blossomon: 60-75lb
-- Puppetmon
+- Puppetmon [20/28]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 #### Secret Mega
-- Valkyriemon
+- Valkyriemon [?]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- AncientTroymon
+- AncientTroymon [32]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- Ghoulmon
+- Ghoulmon [?]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
 
 -----
 
 ## v10 Metal Empire
 #### Fresh & In-Training
-- Choromon
+- Choromon [19/20]
   - Hatched from Egg
-- Kapurimon
+- Kapurimon [19/20]
   - Choromon: Wait 1 hour
 
 #### Rookie
-- ToyAgumon
+- ToyAgumon [19/20]
   - Kapurimon: Wait 60-90 minutes, ???
-- Kokuwamon
+- Kokuwamon [24]
   - Kapurimon: Wait 60-90 minutes, ???
-- Hagurumon
+- Hagurumon [28]
   - Kapurimon: Wait 60-90 minutes, ???
 
 #### Champion
-- Greymon
+- Greymon [28]
   - ToyAgumon: ???
-- Deputymon
+- Deputymon [?]
   - Kokuwamon: 40lb
-- Tankmon
+- Tankmon [30]
   - Kokuwamon: 73lb
-- Clockmon
+- Clockmon [22/29/31]
   - Kokuwamon: ???
-- Guardromon
+- Guardromon [24]
   - Hagurumon: 38lb
-- Mechanorimon
+- Mechanorimon [28]
   - ToyAgumon: ???
 
 #### Ultimate
-- MetalGreymon
+- MetalGreymon [?]
   - ???
-- Andromon
+- Andromon [19]
   - Greymon: ???
   - Clockmon: ???
-- Cyberdramon
+- Cyberdramon [18/19]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- Knightmon
+- Knightmon [?]
   - Deputymon: 66lb
-- BigMamemon
+- BigMamemon [30/31]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- Megadramon
+- Megadramon [?]
   - ???
-- WaruMonzaemon
+- WaruMonzaemon [?]
   - ???
 
 #### Mega
-- WarGreymon
+- WarGreymon [?]
   - ???
-- MetalGarurumon
+- MetalGarurumon [22/25/29]
   - ???
-- Machinedramon
+- Machinedramon [?]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
-- HiAndromon
+- HiAndromon [?]
   - ???
 
 #### Secret Mega
-- AncientGreymon
+- AncientGreymon [?]
   - Jogress: (Va + Va) (Va + Da) (Da + Va)
-- AncientGarurumon
+- AncientGarurumon [31]
   - Jogress: (Va + Vi) (Da + Da) (Vi + Va)
-- AncientSphinxmon
+- AncientSphinxmon [19]
   - Jogress: (Da + Vi) (Vi + Da) (Vi + Vi)
