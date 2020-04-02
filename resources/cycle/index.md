@@ -8,7 +8,7 @@
 [Connections](#connections)  
 [Other Info & Myths](#other-information--questions)  
 [Rosters](#digimon-roster)  
-[Evolution Guide]({{site.baseurl}}/resources/cycle/Evolution)  
+[Evolution Guide]({{site.baseurl}}/resources/cycle/evolution)  
 [Extras](#extras)
 
 <!--
