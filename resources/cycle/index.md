@@ -240,7 +240,7 @@ Can be scanned with:
 - AncientGarurumon
 - AncientSphinxmon
 
-#### Click [here]({{site.baseurl}}/resources/cycle/Evolution) to view our Cycle Evolution Guide.
+#### Click [here]({{site.baseurl}}/resources/cycle/evolution) to view our Cycle Evolution Guide.
 
 # Extras
 -----
