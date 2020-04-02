@@ -5,10 +5,10 @@
 [Menus & Controls](#menus--controls)  
 [Growth Modes](#special-mode-vs-normal-mode)  
 [Weight Management](#how-to-affect-weight)  
-[Connections](#connections)
-[Other Info & Myths](#other-information--questions)
-[Rosters](#digimon-roster)
-[Evolution Guide](resources/cycle/Evolution)
+[Connections](#connections)  
+[Other Info & Myths](#other-information--questions)  
+[Rosters](#digimon-roster)  
+[Evolution Guide](resources/cycle/Evolution)  
 [Extras](#extras)
 
 <!--
