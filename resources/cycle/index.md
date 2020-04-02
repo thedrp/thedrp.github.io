@@ -54,6 +54,9 @@ text
     - Press C to return to the Clock.
   - Press B again to close the clock and return to the main screen.
   - Press C to toggle between 12h and 24h time formats.
+  - Press A + C to adjust the time.
+
+- Sound: Press A + C on the main screen to mute and unmute all sound.
 
 ### Special Mode VS Normal Mode
 -----
