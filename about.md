@@ -3,7 +3,7 @@
 
 # Contact Us
 -----
-Discord: [Click here to join our community](https://discord.gg/2Hu2AVT)
+Discord: [Click here to join our community](https://discord.gg/TeRPCxu)
 
 E-Mail: [thedigitalresearchproject@gmail.com](thedigitalresearchproject@gmail.com)
 
